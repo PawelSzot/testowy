@@ -8,5 +8,9 @@ Zmiana08
 Zmiana09
 Zmiana10a
 Zmiana11
+<<<<<<< HEAD
 Zmiana13
 Zmiana14
+=======
+Zmiana12Clone
+>>>>>>> 791613a7d0345ad6a162333e83782c044b8f819b
