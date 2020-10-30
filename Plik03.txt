@@ -15,3 +15,4 @@ Zmiana14
 Zmiana12Clone
 >>>>>>> 791613a7d0345ad6a162333e83782c044b8f819b
 Zmiana15
+ZmianaRefaktoring3
